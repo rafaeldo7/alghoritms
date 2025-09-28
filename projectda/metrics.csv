@@ -1,0 +1,2 @@
+Algorithm,Size,Time(ns),Comparisons,Swaps,Copies,Calls,MaxDepth
+mergesort,100,1100019,564,140,800,31,5
